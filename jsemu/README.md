@@ -1,26 +1,13 @@
-# JavaScript GameBoy Color Emulator
+# Emulator for the game
 
-Fork of Grant Galitz's JavaScript GameBoy Color Emulator made for running a single ROM
+This is Grant Galitz's JavaScript GameBoy Color Emulator made for running a single ROM
 when uploading homebrew games to services like Itch.io.
 
-This version makes the following changes.
+# Usage
 
-- Canvas fills browser window on desktop/tablet while keeping aspect ratio
-- Touch controls displayed on mobile/tablet 
-- Using css `image-rendering: pixelated` rather than bilinear filtering
-- Touch dpad controls for mobile using touch move with a deadzone
-- Keyboard fix for iPad keyboard case that doesn't report keyup event keycode
-- Wait for keyboard or touch input before starting AudioContext to fix issues in Chrome and iOS not playing Audio
-- No ability to switch ROM, or save/load states, this version is intended for deploying a single game
+This requires "rom/game.gb"
 
-## Usage
-
-- Clone this repository
-- Add your ROM file as `rom/game.gb` (or edit romPath in js/other/mobile.js to point to your ROM file)
-- Upload to a webserver and visit index.html
-
-## Keyboard Controls
-
+#Controls
 Up - Up Arrow / W  
 Down - Down Arrow / S  
 Left - Left Arrow / A  
@@ -32,7 +19,7 @@ Select - Shift
 
 Edit by changing `bindKeyboard` in `js/other/controls.js`.
 
-## License
+## License for emulator
 
 **Copyright (C) 2010 - 2016 Grant Galitz**
 
@@ -41,3 +28,7 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+## WARNING ABOUT GAME
+
+DO NOT MAKE AN ILLEGAL COPY OF THIS GAME!
