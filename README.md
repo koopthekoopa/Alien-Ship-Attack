@@ -1,6 +1,8 @@
 # Alien-Ship-Attack
 This is written in C and built with gbdk!
 
+![Demo](./README_FILES/DEMO.GIF)
+
 Dodge the aliens on thier ships so you can survive!!
 This is the source code!
 
