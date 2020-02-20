@@ -7,9 +7,9 @@ This is the source code!
 # Details
 
 Release: 2020
-Company: Zangpule Company
-Author: Koop the Koopa
-Software: gbdk, paint.net, notepad, gameboypngconverter
+Company: Zangpule Company,
+Author: Koop the Koopa,
+Software: gbdk, paint.net, notepad and gameboypngconverter
 
 ## WARNING ABOUT GAME
 
