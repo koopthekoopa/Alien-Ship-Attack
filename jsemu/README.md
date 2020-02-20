@@ -8,7 +8,7 @@ when uploading homebrew games to services like Itch.io.
 This requires `rom/game.gb`
 You can change it btw!
 
-Controls
+Controls  
 **Up - Up Arrow / W  
 Down - Down Arrow / S  
 Left - Left Arrow / A  
