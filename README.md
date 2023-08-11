@@ -1,4 +1,4 @@
-## THIS GAME IS OUTDATED!
+## THIS GAME IS OLD!
 # Alien-Ship-Attack
 This is written in C and built with gbdk!
 
